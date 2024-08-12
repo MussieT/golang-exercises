@@ -1,0 +1,1 @@
+Golang comparables - https://go.dev/blog/comparable
