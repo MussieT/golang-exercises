@@ -1,9 +1,0 @@
-# go tools (formating configuration...)
-
-# go get golang.org/x/tools/cmd/goimports
-
-# gofmt -w garbage_collection_notes.go
-
-# https://github.com/air-verse/air
-
-# https://bencher.dev/
